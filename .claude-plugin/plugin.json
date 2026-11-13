@@ -1,0 +1,29 @@
+{
+  "name": "dataset-license-check",
+  "displayName": "Dataset License Check",
+  "version": "0.1.0",
+  "description": "Check licences, restrictions and provenance of datasets and AI models before you use them: commercial use, training, redistribution, obligations and provenance risks, with evidence from Hugging Face cards, licence texts (SPDX, Creative Commons, OSI) and published provenance research. Clear verdict per intended use, a data-use register for due diligence and AI Act documentation, and scheduled re-checks. Not legal advice.",
+  "author": {
+    "name": "xelA31B"
+  },
+  "homepage": "https://github.com/xelA31B/dataset-license-check",
+  "repository": "https://github.com/xelA31B/dataset-license-check",
+  "documentationUrl": "https://github.com/xelA31B/dataset-license-check#readme",
+  "supportUrl": "https://github.com/xelA31B/dataset-license-check/issues",
+  "privacyPolicyUrl": "https://github.com/xelA31B/dataset-license-check/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/xelA31B/dataset-license-check/blob/main/TERMS.md",
+  "license": "MIT",
+  "keywords": [
+    "datasets",
+    "licensing",
+    "ai-models",
+    "hugging-face",
+    "data-provenance",
+    "copyright",
+    "compliance",
+    "eu-ai-act",
+    "spdx",
+    "due-diligence"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}

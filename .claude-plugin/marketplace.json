@@ -1,0 +1,14 @@
+{
+  "name": "dataset-license-check",
+  "owner": {
+    "name": "xelA31B"
+  },
+  "description": "Single-plugin marketplace by xelA31B: Check licences, restrictions and provenance of datasets and AI models before you use them: commercial use, training, redistribution, obligations and provenance risks, with evidence from Hugging Face cards, licence texts (SPDX, Creative Commons, OSI) and published provenance research. Clear verdict per intended use, a data-use register for due diligence and AI Act documentation, and scheduled re-checks. Not legal advice.",
+  "plugins": [
+    {
+      "name": "dataset-license-check",
+      "source": "./",
+      "description": "Check licences, restrictions and provenance of datasets and AI models before you use them: commercial use, training, redistribution, obligations and provenance risks, with evidence from Hugging Face cards, licence texts (SPDX, Creative Commons, OSI) and published provenance research. Clear verdict per intended use, a data-use register for due diligence and AI Act documentation, and scheduled re-checks. Not legal advice."
+    }
+  ]
+}
